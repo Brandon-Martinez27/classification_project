@@ -1,5 +1,5 @@
-
-## Goals¶
+# Telco Churn Classification Project
+## Goals
 - Find key drivers for Telco Churn
 - Walkthrough the construction of a ML classfication Model
 - Provide key points, explanations, and takeaways throughout the process
